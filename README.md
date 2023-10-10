@@ -10,7 +10,7 @@
 
 - DataSet Link: https://www.kaggle.com/datasets/jainpooja/fake-news-detection
 
-- Solution Link: 
+- Solution Link: https://github.com/ansariparvej/DI_VIP/tree/main/Level_1%3A%20Beginner%20Level/Project_2%3A%20Fake%20News%20Detection
 
 
 # Beginner Level: Project_3 - Bigmart Sales Prediction (using XGBoost ML Algorithm)
@@ -21,7 +21,7 @@
 
 - DataSet Link: https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data
 
-- Solution Link:
+- Solution Link: https://github.com/ansariparvej/DI_VIP/tree/main/Level_1%3A%20Beginner%20Level/Project_3%3A%20Bigmart%20Sales%20Prediction
 
 
 # Advanced Level: Project_2 - Sign Language Detection (using CNN)
@@ -32,7 +32,7 @@
 
 - DataSet Link: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
-- Solution Link:
+- Solution Link: https://github.com/ansariparvej/DI_VIP/tree/main/Level_3%3A%20Advanced%20Level/Project_2%3A%20Sign%20Language%20Detection
 
 
 # Advanced Level: Project_3 - Movie Recommendation (Content Based)
@@ -43,4 +43,4 @@
 
 - DataSet Link: https://www.kaggle.com/datasets/ayushimishra2809/movielens-dataset
 
-- Solution Link:
+- Solution Link: https://github.com/ansariparvej/DI_VIP/tree/main/Level_3%3A%20Advanced%20Level/Project_3%3A%20Movie%20Recommendation
